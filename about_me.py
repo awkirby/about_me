@@ -131,6 +131,8 @@ with ed1:
 
     st.markdown("Chemical with Nuclear Engineering (MEng), Upper Second-Class Honours (3.7 GPA equivalent)")
 
+with ed2:
+    st.image("mit-certificate.jpg")
 
 
 
